@@ -12,6 +12,8 @@ public class SeleniumTest {
 		System.out.println("BrowserAUtomation");	
 		
 		System.out.println("This is fpr Git testing by second person");
+		
+		System.out.println("This is fpr Git testing by second person");
 	}
 	@Test
 	public void elementsUi()
