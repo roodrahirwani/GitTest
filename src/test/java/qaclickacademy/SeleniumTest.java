@@ -10,6 +10,8 @@ public class SeleniumTest {
 	public void BrowserAUtomation()
 	{
 		System.out.println("BrowserAUtomation");	
+		
+		System.out.println("This is fpr Git testing by second person");
 	}
 	@Test
 	public void elementsUi()
